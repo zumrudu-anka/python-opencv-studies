@@ -1,2 +1,2 @@
 # python-opencv-studies
-OpenCV Studies With Python
+🖼 OpenCV Studies With Python 🐍
